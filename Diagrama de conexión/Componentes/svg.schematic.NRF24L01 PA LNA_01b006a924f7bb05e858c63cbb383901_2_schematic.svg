@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" height=".7in" viewBox="0 0 45 63" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve" version="1.1" width="0.5in"  x="0" y="0">
+    <desc >
+        <referenceFile >svg.schematic.nRF24L01.svg</referenceFile>
+    </desc>
+    <g id="schematic" stroke-linejoin="round"  font-family="Droid Sans" stroke="#000000" stroke-linecap="round" stroke-width="1" gorn="0.1">
+        <g transform="translate(0,9)" >
+            <g >
+                <g >
+                    <g >
+                        <g fill="none"  stroke="#787878" stroke-width="0.7">
+                            <line x2="18" y1="0" id="connector2pin" x1="18"  y2="9" gorn="0.1.0.0.0.0.0.0"/>
+                            <line x2="9" y1="18" id="connector8pin" x1="0"  y2="18" gorn="0.1.0.0.0.0.0.1"/>
+                            <line x2="9" y1="27" id="connector3pin" x1="0"  y2="27" gorn="0.1.0.0.0.0.0.2"/>
+                            <line x2="9" y1="36" id="connector4pin" x1="0"  y2="36" gorn="0.1.0.0.0.0.0.3"/>
+                            <line x2="18" y1="54" id="connector1pin" x1="18"  y2="45" gorn="0.1.0.0.0.0.0.4"/>
+                            <line x2="36" y1="18" id="connector5pin" x1="45"  y2="18" gorn="0.1.0.0.0.0.0.5"/>
+                            <line x2="36" y1="27" id="connector6pin" x1="45"  y2="27" gorn="0.1.0.0.0.0.0.6"/>
+                            <line x2="36" y1="36" id="connector7pin" x1="45"  y2="36" gorn="0.1.0.0.0.0.0.7"/>
+                            <g  stroke="none">
+                                <circle id="connector2terminal"  r="1" cx="18" cy="0" gorn="0.1.0.0.0.0.0.8.0"/>
+                                <circle  r="1" cx="0" cy="18"/>
+                                <circle id="connector3terminal"  r="1" cx="0" cy="27" gorn="0.1.0.0.0.0.0.8.2"/>
+                                <circle id="connector4terminal"  r="1" cx="0" cy="36" gorn="0.1.0.0.0.0.0.8.3"/>
+                                <circle id="connector1terminal"  r="1" cx="18" cy="54" gorn="0.1.0.0.0.0.0.8.4"/>
+                                <circle id="connector5terminal"  r="1" cx="45" cy="18" gorn="0.1.0.0.0.0.0.8.5"/>
+                                <circle id="connector6terminal"  r="1" cx="45" cy="27" gorn="0.1.0.0.0.0.0.8.6"/>
+                                <circle id="connector7terminal"  r="1" cx="45" cy="36" gorn="0.1.0.0.0.0.0.8.7"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect height="36" width="27" fill="#FFFFFF"  x="9" y="18" stroke-width="0.4"/>
+        <g transform="translate(0,9.55)" >
+            <g >
+                <g >
+                    <g >
+                        <g fill="#000000"  font-size="2" stroke="none">
+                            <g transform="matrix(1 0 0 1 18 11)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="middle">VCC</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 10 18)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="start">IRQ</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 10 27)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="start">CE</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 10 36)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="start">CSN</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 18 43.4)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="middle">GND</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 35 18)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="end">SCK</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 35 27)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="end">MOSI</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 35 36)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="end">MISO</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g transform="matrix(1 0 0 1 23 23)" >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <text  text-anchor="middle" font-size="4">nRF24L01</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1 0 0 1 27 0)" >
+            <g >
+                <g >
+                    <g >
+                        <g fill="none"  stroke-width="1">
+                            <!-- antenna symbol -->
+                            <polygon points="17.5,0.5 9,15 0.5,0.5" />
+                            <line y1="15" x2="9" x1="9"  y2="18"/>
+                            <line y1="0.5" x2="9" x1="9"  stroke-width="0.7" y2="15"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

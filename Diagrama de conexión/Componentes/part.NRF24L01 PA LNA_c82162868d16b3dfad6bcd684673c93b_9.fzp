@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<module moduleId="NRF24L01 PA LNA_c82162868d16b3dfad6bcd684673c93b_9" referenceFile="NRF24L01-BO_1.fzp" fritzingVersion="0.9.6">
+ <version>1</version>
+ <author>kuatroestrellas</author>
+ <title>NRF24L01+ PA/LNA</title>
+ <label>M</label>
+ <date>jue. may. 1 2025</date>
+ <tags>
+  <tag>NRF24L01</tag>
+  <tag>fritzing user</tag>
+  <tag>contrib</tag>
+ </tags>
+ <properties>
+  <property name="variant">PA/LNA</property>
+  <property name="editable pin labels">false</property>
+  <property name="layer"></property>
+  <property name="family">NRF24L01</property>
+  <property name="pins">8</property>
+  <property name="hole size"></property>
+  <property name="pin spacing">100mil</property>
+  <property name="part number"></property>
+  <property name="package">THT</property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;a href="https://vector4engineering.com/product/nrf24l01-pa-lna/">&lt;span style=" font-family:'Arial,sans-serif'; font-size:xx-large; font-weight:600; color:#e8eaed; background-color:#202124;">NRF24L01+ PA LNA Wireless Transceiver Module&lt;/span>&lt;/a>&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/NRF24L01 PA LNA_01b006a924f7bb05e858c63cbb383901_2_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/NRF24L01 PA LNA_01b006a924f7bb05e858c63cbb383901_2_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/NRF24L01 PA LNA_01b006a924f7bb05e858c63cbb383901_2_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/NRF24L01 PA LNA_01b006a924f7bb05e858c63cbb383901_2_pcb.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector name="IRQ" id="connector0" type="male">
+   <description/>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+   </views>
+  </connector>
+  <connector name="MISO" id="connector1" type="male">
+   <description/>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+   </views>
+  </connector>
+  <connector name="MOSI" id="connector2" type="male">
+   <description/>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+   </views>
+  </connector>
+  <connector name="SCK" id="connector3" type="male">
+   <description/>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector3terminal" svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+   </views>
+  </connector>
+  <connector name="CSN" id="connector4" type="male">
+   <description/>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector4terminal" svgId="connector4pin" layer="schematic"/>
+    </schematicView>
+   </views>
+  </connector>
+  <connector name="CE" id="connector5" type="male">
+   <description/>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector5terminal" svgId="connector5pin" layer="schematic"/>
+    </schematicView>
+   </views>
+  </connector>
+  <connector name="GND" id="connector6" type="male">
+   <description/>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector6terminal" svgId="connector6pin" layer="schematic"/>
+    </schematicView>
+   </views>
+  </connector>
+  <connector name="VCC" id="connector7" type="male">
+   <description/>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector7terminal" svgId="connector7pin" layer="schematic"/>
+    </schematicView>
+   </views>
+  </connector>
+ </connectors>
+</module>

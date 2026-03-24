@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="1.1in" viewBox="0 0 54 99" version="1.2" width="0.6in"  x="0" y="0">
+    <desc >
+        <referenceFile >svg.pcb.nRF24L01.svg</referenceFile>
+    </desc>
+    <g transform="translate(4.5,85.5)" >
+        <g >
+            <g >
+                <g >
+                    <g fill="none"  stroke="#ff9400" stroke-width="1.5">
+                        <g id="copper1"  gorn="0.1.0.0.0.0.0">
+                            <g id="copper0"  gorn="0.1.0.0.0.0.0.0">
+                                <rect height="5.4" id="square" width="5.4"  x="-2.7" y="6.3" gorn="0.1.0.0.0.0.0.0.0"/>
+                                <circle id="connector1pad"  cx="0" r="2.7" cy="9" gorn="0.1.0.0.0.0.0.0.1"/>
+                                <circle id="connector3pad"  cx="9" r="2.7" cy="9" gorn="0.1.0.0.0.0.0.0.2"/>
+                                <circle id="connector5pad"  cx="18" r="2.7" cy="9" gorn="0.1.0.0.0.0.0.0.3"/>
+                                <circle id="connector7pad"  cx="27" r="2.7" cy="9" gorn="0.1.0.0.0.0.0.0.4"/>
+                                <circle id="connector2pad"  cx="0" r="2.7" cy="0" gorn="0.1.0.0.0.0.0.0.5"/>
+                                <circle id="connector4pad"  cx="9" r="2.7" cy="0" gorn="0.1.0.0.0.0.0.0.6"/>
+                                <circle id="connector6pad"  cx="18" r="2.7" cy="0" gorn="0.1.0.0.0.0.0.0.7"/>
+                                <circle id="connector8pad"  cx="27" r="2.7" cy="0" gorn="0.1.0.0.0.0.0.0.8"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="silkscreen" fill="#000000"  stroke="#000000" stroke-width="1.4" stroke-linecap="butt" gorn="0.2">
+        <line y1="1" x2="52" x1="2"  y2="1"/>
+        <line y1="98" x2="52" x1="35"  y2="98"/>
+        <line y1="0.3" x2="53" x1="53"  y2="98.7"/>
+        <line y1="0.3" x2="1" x1="1"  y2="81"/>
+    </g>
+</svg>
